@@ -4,3 +4,4 @@
 
 
 print("Tervehdys, maailma!")
+print("Tervehdys, maailma!")
